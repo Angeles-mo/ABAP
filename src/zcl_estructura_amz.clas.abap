@@ -31,7 +31,7 @@ data(lv_var) = 5.
 *1er tipo:
 DATA ls_persona TYPE ty_persona.
 
-ls_persona = value  #( correo = 'sdjfsjdfn'
+ls_persona = value  #( correo = 'sdjfsjdfndjfdkd'
                         edad = 23
                         nombre = 'daniel' ).
 
